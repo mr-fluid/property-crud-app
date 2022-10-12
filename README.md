@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## About Project
 
-To solve this challenge i have used PHP Laravel as my backend and Vue JS as my frontend. To store data i have used MySQL database. The frontend dependencies which i have used ar vue, vue-router and vue-axios .
+<p>To solve this challenge i have used PHP Laravel as my backend and Vue JS as my frontend. To store data i have used MySQL database. The frontend dependencies which i have used ar vue, vue-router and vue-axios .
 To install ,Open terminal and run this command:
 npm install
 npm install vue vue-router vue-axios --save
@@ -22,7 +22,7 @@ To setup , type the command 'php artisan migrate' in your console.
 To run dvelopment server 
 Open terminal and run this command:
 npm run watch
-php artisan serve
+php artisan serve</p>
 
 
 
