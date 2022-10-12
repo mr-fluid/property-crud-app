@@ -9,20 +9,21 @@
 
 ## About Project
 
-<p>To solve this challenge i have used PHP Laravel as my backend and Vue JS as my frontend. To store data i have used MySQL database. The frontend dependencies which i have used ar vue, vue-router and vue-axios .
-To install ,Open terminal and run this command:
-npm install
-npm install vue vue-router vue-axios --save
-The third party library which i have used is Intervention Image .
-To install ,Open terminal and run this command:
-composer require intervention/image.
-I have created two tables in the database to store properties.
-1)properties 2)property_types .
-To setup , type the command 'php artisan migrate' in your console.
-To run dvelopment server 
-Open terminal and run this command:
-npm run watch
-php artisan serve</p>
+<p>To solve this challenge i have used PHP Laravel as my backend and Vue JS as my frontend. To store data i have used MySQL database.<br> 
+The frontend dependencies which i have used are vue, vue-router and vue-axios .<br>
+To install ,Open terminal and run this command:<br>
+npm install<br>
+npm install vue vue-router vue-axios --save<br>
+The third party library which i have used is Intervention Image .<br>
+To install ,Open terminal and run this command:<br>
+composer require intervention/image.<br>
+I have created two tables in the database to store properties.<br>
+1)properties 2)property_types .<br>
+To setup , type the command 'php artisan migrate' in your console.<br>
+To run development server <br>
+Open terminal and run this command:<br>
+npm run watch<br>
+php artisan serve<br></p>
 
 
 
