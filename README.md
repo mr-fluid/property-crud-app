@@ -9,7 +9,9 @@
 
 ## About Project
 
-<p>To solve this challenge i have used PHP Laravel as my backend and Vue JS as my frontend. To store data i have used MySQL database.<br> 
+<p>This project revolves around gathering data from a 3rd party service and building a CRUD
+interface to manage additional data related to property. 
+I have used PHP Laravel as my backend and Vue JS as my frontend. To store data i have used MySQL database.<br> 
 The frontend dependencies which i have used are vue, vue-router and vue-axios .<br>
 To install ,Open terminal and run this command:<br>
 npm install<br>
